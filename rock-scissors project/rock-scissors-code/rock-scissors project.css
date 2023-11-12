@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color:white;
+    font-family:Arial;
+}
+.heading{
+    font-weight: bold;
+    font-size:30px;
+}
+.image-class{
+    height:50px;
+}
+.button-class{
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius:80px;
+    padding:30px;
+    margin-right:15px;
+    cursor:pointer;
+}
+.Result{
+    font-weight:bold;
+    font-size:25px;
+    margin-top:40px;
+}
+.reset-button-class,.autoplay-button-class{
+     border:none;
+     padding:10px;
+     font-size:15px;
+}
+.Score{
+    margin-top:80px;
+}
+.Moves{
+    margin-top:80px;
+}
